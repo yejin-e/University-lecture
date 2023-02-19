@@ -1,0 +1,1 @@
+- University-lecture 저장소의 여러 README.md 파일에 넣을 이미지 모음집
